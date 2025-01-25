@@ -29,7 +29,7 @@ body {
 }
 
 .container path:hover {
-    fill: rgb(26, 123, 233);
+    fill: rgb(26, 123, 233) important;
 }
 
 .container svg g a path :visited {
@@ -47,3 +47,5 @@ body {
     color: #f4f4f4;
     text-decoration: none;
 }
+
+
