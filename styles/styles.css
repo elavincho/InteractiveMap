@@ -36,6 +36,18 @@ body {
     fill: crimson;
 }
 
+.link {
+    display: flex;
+    justify-content: left;
+    margin: 50px;
+}
+
+.link a {
+    font-size: 30px;
+    color: #f4f4f4;
+    text-decoration: none;
+}
+
 .footer {
     display: flex;
     justify-content: right;
